@@ -6,8 +6,6 @@ starts a file server in the current directory
 
 ```sh
 go get github.com/reergymerej/quickserver
-
-#TODO: Do I need to install?
 ```
 
 Add `$GOPATH/bin` to `$PATH` if you haven't already.
